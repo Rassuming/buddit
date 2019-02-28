@@ -1,0 +1,15 @@
+.hold-buddit{
+    display: grid;
+    grid-template-columns: 5em 5em 10fr;
+
+}
+
+.c1{
+    grid-column: 1
+}
+.c2{
+    grid-column: 2
+}
+.c3{
+    grid-column: 3
+}

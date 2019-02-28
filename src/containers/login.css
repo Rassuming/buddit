@@ -1,0 +1,10 @@
+.login-holder{
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+}
+
+.form-login{
+    display: flex;
+    align-self: flex-end;
+}
